@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+div.tarjeta{
+border-width:2px solid #e60707;
+border-style: solid;
+border-color: #9f0404;
+padding:40px; 
+background:#355e1b;
+width:300px;
+border-radius:25px;
+box-shadow: 0.1px 0.1px 15px 5px rgba(248, 248, 248, 0.75);
+padding-bottom: 0px;
+
+}
+h2{
+    margin-top: -30px;
+    margin-left: 45px;
+}
+img{
+    margin-left: 40px;
+}
+p.texto{
+    margin-left: -38px;
+}
+div.pie{
+   background-color: rgb(46, 114, 204);
+   color: white;
+   text-align:center;
+    border-bottom-right-radius: 23px;
+    border-bottom-left-radius: 23px;
+    width: 380px;
+    margin-left: -40px;
+    padding-top: 1px;
+    padding-bottom: 0.1%;
+    height: 40px;
+}
+a:link{
+    text-decoration: none;
+}
+ 
